@@ -1,8 +1,8 @@
 # Module 3 Challenge
 * Password Generator
 
-## Links
-* Deployed Application
+# Links
+## Deployed Application
 * link here
 
 ## Repository
