@@ -4,5 +4,6 @@
 # Links
 * Deployed Application
 
-* Repository
 
+* Repository
+https://github.com/mcbariekman/password-generator-module-3-challenge-
