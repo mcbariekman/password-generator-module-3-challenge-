@@ -10,4 +10,4 @@
 
 # Screenshot
 ## Showing the application
-* ![Live Page](./assets/images/screenshot.png)
+![Live Page](./assets/images/screenshot.png)
