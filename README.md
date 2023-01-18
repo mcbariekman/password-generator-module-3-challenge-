@@ -7,3 +7,7 @@
 
 ## Repository
 * https://github.com/mcbariekman/password-generator-module-3-challenge-
+
+# Screenshot
+## Showing the application
+* ![Live Page](./assets/images/screenshot.png)
