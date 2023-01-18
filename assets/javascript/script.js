@@ -1,8 +1,14 @@
 // Assignment code here
 var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-var string_length = 8;
-var randomstring = Math.random().toString(36).slice(-8);
-const specialCharacters = "!@#$%^&*()";
+var length = window.prompt("choose password length between 8 and 128")
+char = "abcdefghijklmnopqrstuvwkyz"
+num = "1234567890"
+passwordText = [""]
+ for(i=0;i < length; i++){
+   passwordText += char.charAt(Math.floor(Math.random() * char.length))
+   return passwordText
+ }
+};
 
 console.log(Math.floor(5)); 
 
