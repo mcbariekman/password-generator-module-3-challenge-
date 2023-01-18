@@ -1,9 +1,9 @@
 # Module 3 Challenge
 * Password Generator
 
-# Links
+## Links
 * Deployed Application
 * link here
 
-* Repository
+## Repository
 * https://github.com/mcbariekman/password-generator-module-3-challenge-
